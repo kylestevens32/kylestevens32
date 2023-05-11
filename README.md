@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Typescript and Next.js
   
 
-- ⚡ Fun fact: I love peanut butter  
+- ⚡ Fun fact: I love running, hiking, biking, skiing, and backpacking  
   
 
 <br/>  
